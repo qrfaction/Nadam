@@ -1,1 +1,1 @@
-用于pytorch3.0 的Nadam优化器
+Nadam Optimizer for pytorch3.0
